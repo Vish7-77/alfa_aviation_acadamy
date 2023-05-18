@@ -1,0 +1,10 @@
+.myLogo{
+    width: 25%;
+}
+
+.myLogo>img{
+    width: 100%;
+}
+.Dfflex{
+    display: flex;
+}
