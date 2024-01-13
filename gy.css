@@ -1,16 +1,16 @@
-html{
+html {
     scroll-behavior: smooth;
 }
 
 
-#heroimg1{
+#heroimg1 {
     visibility: visible;
-transition: all 0.3s ease-in;
-opacity: 1;
+    transition: all 0.3s ease-in;
+    opacity: 1;
 }
 
 
-#heroimg2{
+#heroimg2 {
     visibility: visible;
     transition: all 0.3s ease-in;
 }
